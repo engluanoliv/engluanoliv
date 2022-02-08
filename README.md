@@ -1,4 +1,4 @@
-<h2>Hello everyone, I'm Luan Oliveira. Frontend developer and also a civil engineer. I have experience with Front-End programming in HTML, CSS, SCSS, styleSheet, styled Components, JAVASCRIPT, REACT-JS, REACT NATIVE, AXIOS, GIT, GITHUB, JIRA, KANBAN technologies.</h2>
+<h2>Hello everyone, I'm Luan Oliveira. Frontend developer and also a civil engineer. I have experience with Front-End programming in HTML, CSS, SCSS, styleSheet, styled Components, JAVASCRIPT, REACT-JS, REACT NATIVE, AXIOS, GIT, GITHUB, JIRA, CONFLUENCE, FIGMA, DOCKER, SCRUM, KANBAN technologies.</h2>
 
 <div>
   <a href="https://github.com/engluanoliv">
