@@ -1,4 +1,18 @@
-<h2>Hello everyone, I'm Luan Oliveira. Frontend developer and also a civil engineer. I have experience with Front-End programming in HTML, CSS, SCSS, styleSheet, styled Components, JAVASCRIPT, REACT-JS, REACT NATIVE, AXIOS, GIT, GITHUB, JIRA, CONFLUENCE, FIGMA, DOCKER, SCRUM, KANBAN technologies.</h2>
+<h2>👋 Hello, I'm Luan Oliveira</h2>
+
+<p>I’m a <strong>Frontend Developer</strong> with a background in <strong>Civil Engineering</strong>. My expertise lies in creating user-friendly, high-performance web applications. With a solid foundation in modern web technologies, I focus on crafting clean, scalable, and maintainable code.</p>
+
+<h3>💻 Technologies I work with:</h3>
+<ul>
+  <li><strong>Frontend:</strong> Next, React, Styled Components, SCSS, SASS, Tailwind, ShadcnUI</li>
+  <li><strong>Backend/Tools:</strong> Node.js, Axios, Git, Docker, PNPM, NPM</li>
+  <li><strong>Version Control & Collaboration:</strong> GitHub, JIRA, Confluence, GitLab</li>
+  <li><strong>Design & UI/UX:</strong> Figma</li>
+  <li><strong>Agile Methodologies:</strong> Scrum, Kanban</li>
+</ul>
+
+<p>I’m passionate about leveraging my diverse skill set to build efficient and impactful solutions. Let's connect!</p>
+
 
 <div>
   <a href="https://github.com/engluanoliv">
