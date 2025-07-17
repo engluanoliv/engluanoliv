@@ -4,10 +4,10 @@
 
 <h3>💻 Technologies I work with:</h3>
 <ul>
-  <li><strong>Frontend:</strong> Next, React, Styled Components, SCSS, SASS, Tailwind, ShadcnUI</li>
-  <li><strong>Backend/Tools:</strong> Node.js, Axios, Git, Docker, PNPM, NPM</li>
-  <li><strong>Version Control & Collaboration:</strong> GitHub, JIRA, Confluence, GitLab</li>
-  <li><strong>Design & UI/UX:</strong> Figma</li>
+  <li><strong>Frontend:</strong> Next, React, Vue 3, Vuetify 3, MagicUI, React Native, Typescript, Styled Components, SCSS, SASS, Tailwind, ShadcnUI</li>
+  <li><strong>Backend/Tools:</strong> Node.js, Axios, Git, Docker, SQL, Postgree, dBeaver, MacOS.</li>
+  <li><strong>Version Control & Collaboration:</strong> GitHub, JIRA, Confluence, GitLab, Monday, Slack,</li>
+  <li><strong>Design & UI/UX:</strong>Figma, Dribble, MagicUI.</li>
   <li><strong>Agile Methodologies:</strong> Scrum, Kanban</li>
 </ul>
 
